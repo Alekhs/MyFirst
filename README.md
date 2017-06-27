@@ -51,6 +51,8 @@ This is __*both* _italics_ & **bold**__
 
 **IMAGES**
 ===
-Hello: ![alt image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Hello")
-Hello again: ![alt image][logo]
+Hello:
+![alt image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Hello")
+Hello again:
+![alt image][logo]
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Hello again"
