@@ -43,16 +43,16 @@ This is __*both* _italics_ & **bold**__
 
 [My link](www.google.com)   
 [My link with name](www.google.com "MyName")   
-[My reference link][1]   
-[Link]   
-[1]: www.google.com
-[Link]: www.amazon.com "Amazon"
 
 
 **IMAGES**
 ===
 Hello:
-![alt image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Hello")
-   Hello again:
-![alt text][logo]
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Hello again"
+![alt image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Hello")   
+
+**CODE**
+===
+Hello `code`
+```Java
+System.out.println("Hello");
+```
