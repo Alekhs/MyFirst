@@ -41,16 +41,10 @@ This is __*both* _italics_ & **bold**__
 **LINKS**
 ===
 
-[My link](www.google.com)
-
-
-[My link with name](www.google.com "MyName")
-
-
-[My reference link][1]
-
-
-[Link]
+[My link](www.google.com)   
+[My link with name](www.google.com "MyName")   
+[My reference link][1]   
+[Link]   
 [1]: www.github.com
 [Link]: www.amazon.com "Amazon"
 
