@@ -41,10 +41,10 @@ This is __*both* _italics_ & **bold**__
 **LINKS**
 ===
 
-[My link](www.google.com)
-[My link with name](www.google.com "MyName")
-[My reference link][1]
-[Link]
+   [My link](www.google.com)
+   [My link with name](www.google.com "MyName")
+   [My reference link][1]
+   [Link]
 [1]: www.github.com
 [Link]: www.amazon.com "Amazon"
 
@@ -53,6 +53,6 @@ This is __*both* _italics_ & **bold**__
 ===
 Hello:
 ![alt image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Hello")
-Hello again:
+   Hello again:
 ![alt text][logo]
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Hello again"
