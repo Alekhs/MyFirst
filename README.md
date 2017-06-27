@@ -45,7 +45,7 @@ This is __*both* _italics_ & **bold**__
 [My link with name](www.google.com "MyName")   
 [My reference link][1]   
 [Link]   
-[1]: www.github.com
+[1]: www.google.com
 [Link]: www.amazon.com "Amazon"
 
 
