@@ -73,14 +73,14 @@ print "Hello"
 |---|---|---|
 |1|2|3|
 |4|5|6|
-|[7](www.google.com)|8|9|
+|[7](https://www.google.com "Google")|8|9|
 
 
 **BACKQUOTES**
 ===
 
->Hello
-How do you do?
+>Hello   
+How do you do?   
 >Namasthe!
 
 **HTML**
@@ -92,7 +92,7 @@ How do you do?
 </table>
 
 **Rules**
-===
+===   
 
 Dashes
 ---
