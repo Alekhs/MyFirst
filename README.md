@@ -110,4 +110,4 @@ ___
 **VIDEOS**
 ===
 
-[![alt image](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg "My video")](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![alt image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "My video")](https://www.youtube.com/watch?v=6A5EpqqDOdk)
