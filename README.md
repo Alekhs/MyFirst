@@ -47,12 +47,16 @@ This is __*both* _italics_ & **bold**__
 
 **IMAGES**
 ===
+
 Hello:
 ![alt image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Hello")   
 
 **CODE**
 ===
-Hello `code`
+
+`code`   
+
+Hello Java
 ```Java
 System.out.println("Hello");
 ```   
@@ -61,3 +65,38 @@ Hello python
 ```Python
 print "Hello"
 ```
+
+**TABLES**
+===
+
+| Hi | Hello | Bye |
+|---|---|---|
+|1|2|3|
+|4|5|6|
+|[7](www.google.com)|8|9|
+
+
+**BACKQUOTES**
+===
+
+>Hello
+How do you do?
+>Namasthe!
+
+**HTML**
+===
+
+<b>Bold</b>
+<table>
+<tr><td>1</td><td>2</td></tr>
+</table>
+
+**Rules**
+===
+
+Dashes
+---
+Stars
+***
+Underscores
+___
