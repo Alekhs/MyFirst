@@ -41,8 +41,8 @@ This is __*both* _italics_ & **bold**__
 **LINKS**
 ===
 
-[My link](www.google.com)   
-[My link with name](www.google.com "MyName")   
+[My link](https://www.google.com)   
+[My link with name](https://www.google.com "MyName")   
 
 
 **IMAGES**
@@ -50,6 +50,9 @@ This is __*both* _italics_ & **bold**__
 
 Hello:
 ![alt image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Hello")   
+
+Hello with link:
+[![alt image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Hello")](https://www.google.com)
 
 **CODE**
 ===
@@ -107,4 +110,4 @@ ___
 **VIDEOS**
 ===
 
-[![alt image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Hello")](https://www.google.com)
+[![alt image](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg "My video")](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
