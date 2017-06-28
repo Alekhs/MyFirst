@@ -80,7 +80,9 @@ print "Hello"
 ===
 
 >Hello   
-How do you do?   
+How do you do?
+
+
 >Namasthe!
 
 **HTML**
@@ -100,3 +102,9 @@ Stars
 ***
 Underscores
 ___
+
+
+**VIDEOS**
+===
+
+[![alt image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Hello")](https://www.google.com)
