@@ -55,4 +55,9 @@ Hello:
 Hello `code`
 ```Java
 System.out.println("Hello");
+```   
+
+Hello python
+```Python
+print "Hello"
 ```
